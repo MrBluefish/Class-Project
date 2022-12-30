@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrBluefish
-- 👀 I’m interested in ...
+- 👀 I’m interested in front end development, design, data visualization 
 - 🌱 I’m currently enrolled in IBM's Full Stack Software Developer program through Coursera
 - 💞️ I’m looking to collaborate on almost anything. I really need to work on understanding JavaScript 
 - 📫 How to reach me ...
